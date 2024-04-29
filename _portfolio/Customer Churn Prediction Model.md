@@ -9,4 +9,4 @@ This project focuses on developing a predictive system to preemptively identify 
 I created a deep learning model using a Recurrent Neural Network (RNN) architecture with Long Short-Term Memory (LSTM) units to forecast customer purchase patterns over time. 
 These forecasts are then used to normalise predictions between 0 and 1, interpreting them as churn probabilities. The model processes historical transaction data to recognise 
 patterns and predict future activities, thus allowing early intervention strategies aimed at improving customer retention. This preemptive approach leverages detailed customer 
-behaviour analytics to mitigate the risk of churn by engaging customers before they disengage completely. The code for this project can be found [here](https://github.com/GiuseppeIncardona9/Data-Driven-Projects/blob/main/Customer%20Churn%20Prediction/Customer%20Churn%20Prediction%20Model.ipynb)
+behaviour analytics to mitigate the risk of churn by engaging customers before they disengage completely. The code for this project can be found [here](https://github.com/giuseppeinc96/Data-Driven-Projects/tree/main)
