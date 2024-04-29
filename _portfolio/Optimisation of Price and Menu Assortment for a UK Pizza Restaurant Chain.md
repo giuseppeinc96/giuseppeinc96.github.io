@@ -9,6 +9,6 @@ segments (students vs. non-students), menu assortment optimisation using Markov 
 The approach uses simulated survey data to analyse consumer willingness to pay, optimising prices for peak and non-peak periods, and for student-specific pricing. 
 I employed several technical analysis methods, including demand modelling, linear regression, nonlinear optimisation and sensitivity analysis to fine-tune the menu offerings and 
 pricing strategies to maximise revenue while ensuring customer satisfaction and operational efficiency. The ultimate goal is to boost the financial health of the company by 
-strategically adjusting pizza prices and assortments, thereby ensuring the chain's growth and sustainability in a competitive market. The coding and report of this project can be found [here](https://github.com/GiuseppeIncardona9/Data-Driven-Projects/tree/main)
+strategically adjusting pizza prices and assortments, thereby ensuring the chain's growth and sustainability in a competitive market. The coding of this project can be found [here](https://github.com/giuseppeinc96/Data-Driven-Projects/tree/3ca6a07396b0b7b92a7995588cb1aed347080250/Pizza%20Pilgrims%20Price%20Optimisation). Click [here](https://github.com/giuseppeinc96/Data-Driven-Projects/blob/main/Pizza%20Pilgrims%20Price%20Optimisation/Report-Pizza%20Pilgrims%20Price%20Menu%20Optimisation.pdf) to also see the report. 
 
 
