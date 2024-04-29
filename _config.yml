@@ -12,7 +12,7 @@ title                    : "Giuseppe's Homepage"
 title_separator          : "-"
 name                     : &name "Giuseppe Incardona"
 description              : &description "personal description"
-url                      : https://giuseppeincardona9.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://giuseppeinc96.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
