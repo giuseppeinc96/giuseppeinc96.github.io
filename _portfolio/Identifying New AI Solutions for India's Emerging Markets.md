@@ -1,9 +1,6 @@
 ---
 title: "Identifying New AI Solutions for India's Emerging Markets"
-excerpt: "In this project, I analysed startup funding in India from 2017 to 2021, focusing on the roles of location and sector. Using Multiple Imputation by Chained 
-Equations (MICE) to handle missing data, I discovered significant impacts from global events like the COVID-19 pandemic on startup trends, particularly in technology and fintech
-sectors. Bengaluru stood out as a major funding hub. Recommendations for startups include targeting high-growth areas, developing a viable product, and forming a strong team to 
-enhance their attractiveness to investors, aligning with the trends observed in the ecosystem. <br/><img src='/images/ST.webp'>"
+excerpt: "In this project, I analysed startup funding in India from 2017 to 2021, focusing on the roles of location and sector. Using Multiple Imputation by Chained Equations (MICE) to handle missing data, I discovered significant impacts from global events like the COVID-19 pandemic on startup trends, particularly in the technology and fintech sectors. Bengaluru stood out as a major funding hub. Recommendations for startups include targeting high-growth areas, developing a viable product, and forming a strong team to enhance their attractiveness to investors, aligning with the trends observed in the ecosystem. <br/><img src='/images/ST.webp'>"
 collection: portfolio
 ---
 
@@ -13,4 +10,4 @@ To address data integrity issues, I employed Multiple Imputation by Chained Equa
 
 The findings indicate noticeable fluctuations in the emergence and funding of startups, with significant impacts stemming from global occurrences like the COVID-19 pandemic. The analysis reveals that sectors such as technology and fintech attract considerable investments, and cities like Bengaluru are leading in funding amounts, underscoring the strong regional influence on investment trends.
 
-I outlined strategic recommendations for startups seeking to draw investor interest, stressing the importance of aligning with favorable locations and sectors, and showcasing potential through a minimum viable product. I advocate for building a capable team and customizing pitches to various funding stages to enhance the likelihood of securing investments, in line with the successful trends observed within the startup ecosystem. The coding and report of this project can be found [here](https://github.com/GiuseppeIncardona9/Data-Driven-Projects/tree/main)
+I outlined strategic recommendations for startups seeking to draw investor interest, stressing the importance of aligning with favorable locations and sectors, and showcasing potential through a minimum viable product. I advocate for building a capable team and customizing pitches to various funding stages to enhance the likelihood of securing investments, in line with the successful trends observed within the startup ecosystem. The coding of this project can be found [here](https://github.com/GiuseppeIncardona9/Data-Driven-Projects/tree/main). Click [here](https://github.com/giuseppeinc96/Data-Driven-Projects/blob/main/Identifying%20New%20AI%20Solutions%20for%20India's%20Emerging%20Markets/Report-Identifying%20New%20AI%20Solutions%20for%20India's%20Emerging%20Markets.pdf) to also see the report. 
